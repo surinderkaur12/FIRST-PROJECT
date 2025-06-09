@@ -1,5 +1,5 @@
 # 🍔 Food Ordering Web App
-<img src ="https://t4.ftcdn.net/jpg/08/17/83/35/240_F_817833512_9SKivLKHUDmPs1C8dOXBIOe6p3F9KTYL.jpg" width="400" height="400"><img>
+<img src ="https://t4.ftcdn.net/jpg/08/17/83/35/240_F_817833512_9SKivLKHUDmPs1C8dOXBIOe6p3F9KTYL.jpg" width="100%" height="400"><img>
 
 A responsive and dynamic food ordering web application built using **React.js** and **React Router**. This app showcases a wide variety of dishes, snacks, drinks, and desserts, complete with descriptions, images, and ordering functionality.
 

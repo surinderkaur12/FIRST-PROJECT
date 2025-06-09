@@ -19,7 +19,35 @@ A responsive and dynamic food ordering web application built using **React.js** 
 
 ---
 
-## 📂 Folder Structure
+## 🔐 Login & Contact Functionality
+
+### 🔸 Login Page
+
+- Secure and user-friendly login interface.
+- Built using React with input validation.
+- Designed for future integration with authentication APIs (e.g., Firebase or JWT).
+- Redirects users to dashboard or home after successful login.
+
+📸 *Sample Preview:*
+
+<img src="src/Resources/login-preview.jpg" alt="Login Page" width="400"/>
+
+---
+
+### 📞 Contact Page
+
+- Clean and responsive contact form.
+- Fields: `Name`, `Email`, `Message`.
+- Data can be connected to backend or email service (like EmailJS, Formspree, etc.)
+- Option to display contact details and a Google Map location.
+
+📸 *Sample Preview:*
+
+<img src="src/Resources/contact-preview.jpg" alt="Contact Page" width="400"/>
+
+---
+
+
 
 
 

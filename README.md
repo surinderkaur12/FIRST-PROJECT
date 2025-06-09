@@ -9,6 +9,7 @@ A responsive and dynamic food ordering web application built using **React.js** 
 
 - 🖼️ Food item cards with image, description, price, and rating
 - ➕➖ Quantity management using `useReducer`
+- 🛒 Add to Cart & Cart Page with live quantity tracking
 - 🧭 Navigation through React Router
 - 🎠 Image carousel/slideshow
 - 🧃 Explore various food categories (Shakes, Snacks, Desserts, etc.)

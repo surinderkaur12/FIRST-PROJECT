@@ -42,7 +42,7 @@ A responsive and dynamic food ordering web application built using **React.js** 
 
 | Technology        | Description                                 |
 |-------------------|---------------------------------------------|
-| **React.js**       | Core front-end framework                    |
+| **React.js**       | Front-end framework                    |
 | **React Router DOM** | Handles page navigation without reloads   |
 | **JavaScript (ES6+)** | Logic, interaction, and dynamic behavior |
 | **HTML5 + JSX**    | UI structure and dynamic rendering          |

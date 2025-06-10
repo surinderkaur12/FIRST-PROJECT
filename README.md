@@ -44,7 +44,6 @@ A responsive and dynamic food ordering web application built using **React.js** 
 |-------------------|---------------------------------------------|
 | **React.js**       | Front-end framework                    |
 | **React Router DOM** | Handles page navigation without reloads   |
-| **JavaScript (ES6+)** | Logic, interaction, and dynamic behavior |
 | **HTML5 + JSX**    | UI structure and dynamic rendering          |
 | **CSS3**           | Custom styling and layout                   |
 | **Bootstrap**      | Responsive design framework                 |

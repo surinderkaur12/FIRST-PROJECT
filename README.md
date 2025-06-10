@@ -51,7 +51,7 @@ A responsive and dynamic food ordering web application built using **React.js** 
 | **useReducer Hook**| Cart & quantity management                  |
 | **Responsive Design** | Mobile and tablet compatibility          |
 
-<iframe src ="https://cdn.pixabay.com/video/embed/2023/02/09/149935-797511795_large.mp4" width="250p" height="250"></iframe>
+<iframe src ="https://cdn.pixabay.com/video/controls/2023/02/09/149935-797511795_large.mp4" width="250p" height="250"></iframe>
 
 
 
